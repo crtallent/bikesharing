@@ -2,13 +2,13 @@
 
 ## Overview of Bikesharing Project
 
-For this project, we are tasked with proposing to investors that a bikesharing business, such as Citi Bike in New York City, is an excellent endeavor in the city of Des Moines, Idaho.  As there is currently no local bikesharing operations in the area, data from Citi Bike was analyzed to ascertain more information about operating a bikesharing business. Bikesharing data from August 2019 was downloaded in the form of a CSV file and uploaded to Tableau Public for the purpose of the analysis.
+For this project, we are tasked with proposing to investors that a bikesharing business, such as Citi Bike in New York City, is an excellent endeavor in the city of Des Moines, Idaho.  As there is currently no local bikesharing operations in the area, data from Citi Bike was analyzed to ascertain more information about operating a bikesharing business. Bikesharing data from August 2019 was downloaded in the form of a CSV file and uploaded to Tableau Public for the purpose of the analysis.  The full proposal can be found on the Tableau Public Server, which can be accessed by clicking this [link]("https://public.tableau.com/app/profile/crystal.tallent/viz/Bikesharing_16456548744410/Story1?publish=yes")
 
 ## Resources
 
 * Software: Python 3.7.11, Jupyter Notebook 7.29.0, Tableau Public 2021.4
 
-* Data Source: 201908-citibike-tripdata.csv
+* Data Source: 201908-citibike-tripdata.csv, bikesharing.csv
 
 ## Results
 
@@ -48,3 +48,9 @@ The above image shows a breakdown of user types, by gender, and by either custom
 
 <img src="https://github.com/crtallent/bikesharing/blob/main/Images/EndingLoc.png"/>
 Finally, this image shows a map of ending points, indicating the most popular checkout locations.
+
+## Summary
+
+As we can see from the data, bikesharing is popular in New York City.  With over 2,000,000 rides in the month of August alone, the data suggests that this is a useful commodity in the city.  By looking at the trip duration data, we can see that bikes are most often checked out for 4-5 hours, and that males check out bikes much more often than females. We can also see that between user types (customer and subscriber), the amount of bikes checked out to subscribers is much higher than those that do not have a subscription.  From the data, we can also see that bikes are checked out every day of the week, ahd that the peak hours for checkout times are daylight hours.  Finally, the data for the ending locations is useful, as it shows which locations patrons are most likely to return the bikes.
+
+

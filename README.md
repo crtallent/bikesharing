@@ -33,3 +33,6 @@ The image above depicts the number of trips, filtered by the length of time that
 
 <img src="https://github.com/crtallent/bikesharing/blob/main/Images/PeakHours.png"/>
 The image above showcases the number of bike rides for each hour of the day, which highlights the peak hours.
+
+<img src="https://github.com/crtallent/bikesharing/blob/main/Images/Checkout.png"/>
+This image is similar to the trip duration data above, but allowing breakdown of users by gender.

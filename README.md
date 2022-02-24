@@ -42,3 +42,6 @@ This data breaks down the number of rides by time and gender for each day of the
 
 <img src="https://github.com/crtallent/bikesharing/blob/main/Images/WeekdayTrips.png"/>
 This chart shows the number of trips per hour, per day of the week.
+
+<img src="https://github.com/crtallent/bikesharing/blob/main/Images/UserTrips.png"/>
+The above image shows a breakdown of user types, by gender, and by either customer or subscriber.

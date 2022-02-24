@@ -2,7 +2,7 @@
 
 ## Overview of Bikesharing Project
 
-For this project, we are tasked with proposing to investors that a bikesharing business, such as Citi Bike in New York City, is an excellent endeavor in the city of Des Moines, Idaho.  As there is currently no local bikesharing operations in the area, data from Citi Bike was analyzed to ascertain more information about operating a bikesharing business. Bikesharing data from August 2019 was downloaded in the form of a CSV file and uploaded to Tableau Public for the purpose of the analysis.  The full proposal can be found on the Tableau Public Server, which can be accessed by clicking this [link]("https://public.tableau.com/app/profile/crystal.tallent/viz/Bikesharing_16456548744410/Story1?publish=yes")
+For this project, we are tasked with proposing to investors that a bikesharing business, such as Citi Bike in New York City, is an excellent endeavor in the city of Des Moines, Idaho.  As there is currently no local bikesharing operations in the area, data from Citi Bike was analyzed to ascertain more information about operating a bikesharing business. Bikesharing data from August 2019 was downloaded in the form of a CSV file and uploaded to Tableau Public for the purpose of the analysis.  The full proposal can be found on the Tableau Public Server, which can be accessed by clicking this [link](https://public.tableau.com/app/profile/crystal.tallent/viz/Bikesharing_16456548744410/Story1?publish=yes).
 
 ## Resources
 

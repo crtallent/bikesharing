@@ -36,3 +36,6 @@ The image above showcases the number of bike rides for each hour of the day, whi
 
 <img src="https://github.com/crtallent/bikesharing/blob/main/Images/Checkout.png"/>
 This image is similar to the trip duration data above, but allowing breakdown of users by gender.
+
+<img src="https://github.com/crtallent/bikesharing/blob/main/Images/GenderTrips.png"/>
+This data breaks down the number of rides by time and gender for each day of the week.

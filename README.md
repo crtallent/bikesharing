@@ -29,4 +29,4 @@ Upon analysis of the bikesharing data, we were able to ascertain the following:
 As we can see from the above image, the total number of rides for August 2019 was 2,344,224.
 
 <img src="https://github.com/crtallent/bikesharing/blob/main/Images/TripDuration.png"/>
-The image above depicts the number of trips, filtered by the length of time (trip duration).  Filters include trips lasting from less than one hour to 23 hours.  
+The image above depicts the number of trips, filtered by the length of time that the bikes were checked out (trip duration).  Filters include trips lasting from less than one hour to 23 hours.  

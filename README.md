@@ -45,3 +45,6 @@ This chart shows the number of trips per hour, per day of the week.
 
 <img src="https://github.com/crtallent/bikesharing/blob/main/Images/UserTrips.png"/>
 The above image shows a breakdown of user types, by gender, and by either customer or subscriber.
+
+<img src="https://github.com/crtallent/bikesharing/blob/main/Images/EndingLoc.png"/>
+Finally, this image shows a map of ending points, indicating the most popular checkout locations.
